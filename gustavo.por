@@ -1,8 +1,9 @@
 programa {
   funcao inicio() {
 
-    escreva("boa noite\n")
+    escreva("boa tarde\n")
      
     
   }
 }
+ 

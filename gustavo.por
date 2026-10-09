@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
 
-    escreva("escreva\n")
+    escreva("carro\n")
      
     
   }

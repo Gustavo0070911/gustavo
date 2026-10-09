@@ -3,6 +3,7 @@ programa {
 
     escreva("carro\n")
      
+    escreva("teste2\n")
     
   }
 }
